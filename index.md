@@ -8,6 +8,8 @@
 <img src="images/3DCNN.jpg?raw=true"/>
 <img src="images/heatmap.jpg?raw=true"/>
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/tensorflow-white?logo=tensorflow)](#)
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
