@@ -12,7 +12,7 @@
 
 ---
 
-### Adding BIDS Prov to new dataflow engine written in Python: Pydra
+### Adding provenance to new dataflow engine written in Python: Pydra
 [Google Summer of Code]([/pdf/sample_presentation.pdf](https://summerofcode.withgoogle.com/programs/2022/projects/U46zNrr6))
 <img src="images/pydra_logo.jpg?raw=true"/>
 
