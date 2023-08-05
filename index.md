@@ -11,8 +11,10 @@
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/tensorflow-white?logo=tensorflow)](#)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Adding BIDS Prov to new dataflow engine written in Python: Pydra
+[Google Summer of Code]([/pdf/sample_presentation.pdf](https://summerofcode.withgoogle.com/programs/2022/projects/U46zNrr6))
+<img src="images/pydra_logo.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -20,15 +22,7 @@
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
