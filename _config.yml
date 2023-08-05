@@ -1,11 +1,11 @@
 title: Ryan Cali # your name (or website title) here
 logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist with 4 years of experience working in the healthcare sector. 
   <br><br>
-  Second description 
+  Previous experience working in computer vision and deep learning research in disease at Harvard Medical School and Massachusetts General Hospital.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ryan-cali-64201417a/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
