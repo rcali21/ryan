@@ -16,6 +16,8 @@
 [Google Summer of Code]([/pdf/sample_presentation.pdf](https://summerofcode.withgoogle.com/programs/2022/projects/U46zNrr6))
 <img src="images/pydra_logo.jpg?raw=true"/>
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
