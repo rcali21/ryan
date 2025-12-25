@@ -6,9 +6,11 @@
 
 Docker-based service that allows mapping of GPS location with low latency based on movements sent via smartphone. Generates tables in a Postgres database that allow reconstruction of a path of travel based on coordinates and associated timestamps.
 
+[Code](https://github.com/rcali21/kafka_location_streaming)
+
 <img src="image.png" alt="description" style="border-radius: 10px;" width=200>
 
-[Code](https://github.com/rcali21/kafka_location_streaming)
+
 
 
 
