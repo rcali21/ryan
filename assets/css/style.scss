@@ -3,4 +3,21 @@
 
 @import "{{ site.theme }}";
 
-body { background-color: #1a1a1a; }
+body { 
+  background-color: #1a1a1a; 
+  color: #ffffff;  /* White text */
+}
+
+/* Make links visible too */
+a {
+  color: #58a6ff;  /* Light blue for links */
+}
+
+a:hover {
+  color: #79c0ff;  /* Lighter blue on hover */
+}
+
+/* If headers are still dark */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
