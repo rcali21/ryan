@@ -37,8 +37,8 @@ Docker-based service that allows mapping of GPS location with low latency based 
 Certifications
 
 [Databricks Certified Data Engineer](https://credentials.databricks.com/0edb84f0-47ad-4a16-b964-360e3542d61d#acc.6NQBTvAa)
+<img src="image-1.png" alt="certification badge" width="200">
 
-![alt text](image-1.png)
 
 
 
