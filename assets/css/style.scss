@@ -5,19 +5,32 @@
 
 body { 
   background-color: #1a1a1a; 
-  color: #ffffff;  /* White text */
+  color: #ffffff;
 }
 
-/* Make links visible too */
+/* Better link styling */
 a {
-  color: #58a6ff;  /* Light blue for links */
+  color: #00d4ff;  /* Bright cyan */
+  text-decoration: none;
 }
 
 a:hover {
-  color: #79c0ff;  /* Lighter blue on hover */
+  color: #00ffff;
+  text-decoration: underline;
 }
 
-/* If headers are still dark */
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
+}
+
+/* Style the logo image */
+.wrapper img[src*="me.jpg"],
+header img {
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 212, 255, 0.3);
+}
+
+/* Round all other images */
+img {
+  border-radius: 10px;
 }
