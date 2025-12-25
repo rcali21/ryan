@@ -19,7 +19,7 @@ Docker-based service that allows mapping of GPS location with low latency based 
 
 ### The Influence of Brain MRI Defacing Algorithms on Brain-Age Predictions via 3D Convolutional Neural Networks
 
-[Publication](https://www.biorxiv.org/content/10.1101/2023.04.28.538724v1.full)
+[Publication](https://pmc.ncbi.nlm.nih.gov/articles/PMC10168305/)
 <img src="images/3DCNN.jpg?raw=true"/>
 <img src="images/heatmap.jpg?raw=true"/>
 
