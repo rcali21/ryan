@@ -6,7 +6,7 @@
 
 Docker-based service that allows mapping of GPS location with low latency based on movements sent via smartphone. Generates tables in a Postgres database that allow reconstruction of a path of travel based on coordinates and associated timestamps.
 
-<img src="image.png" alt="description" style="border-radius: 10px;">
+<img src="image.png" alt="description" style="border-radius: 10px;" width=200>
 
 [Code](https://github.com/rcali21/kafka_location_streaming)
 
@@ -20,6 +20,17 @@ Docker-based service that allows mapping of GPS location with low latency based 
 
 ---
 
+### Synthesis of High-Resolution Research-Quality MRI Data from Clinical MRI Data in Patients with COVID-19 
+
+[Publication](https://www.medrxiv.org/content/10.1101/2021.11.25.21266090v1.full.pdf)
+
+<img src="image-2.png" alt="description" style="border-radius: 10px;" width="300"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
 ### The Influence of Brain MRI Defacing Algorithms on Brain-Age Predictions via 3D Convolutional Neural Networks
 
 [Publication](https://pmc.ncbi.nlm.nih.gov/articles/PMC10168305/)
