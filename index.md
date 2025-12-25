@@ -47,7 +47,7 @@ Docker-based service that allows mapping of GPS location with low latency based 
 ---
 
 ### Adding provenance to new dataflow engine written in Python: Pydra
-[Google Summer of Code]([/pdf/sample_presentation.pdf](https://summerofcode.withgoogle.com/programs/2022/projects/U46zNrr6))
+[Google Summer of Code](https://summerofcode.withgoogle.com/archive/2022/organizations/incf)
 
 <img src="images/pydra_logo.jpg?raw=true" alt="description" style="border-radius: 10px;" width="300"/>
 
