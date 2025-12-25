@@ -12,9 +12,10 @@ Docker-based service that allows mapping of GPS location with low latency based 
 
 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
-![](https://img.shields.io/badge/Postgres-white?logo=Postgresql)
-[![](https://img.shields.io/badge/Docker-white?logo=docker)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 
 ---
@@ -26,7 +27,9 @@ Docker-based service that allows mapping of GPS location with low latency based 
 <img src="images/3DCNN.jpg?raw=true" alt="description" style="border-radius: 10px;" width="400"/>
 <img src="images/heatmap.jpg?raw=true" alt="description" style="border-radius: 10px;" width="400"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/tensorflow-white?logo=tensorflow)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -35,7 +38,8 @@ Docker-based service that allows mapping of GPS location with low latency based 
 
 <img src="images/pydra_logo.jpg?raw=true" alt="description" style="border-radius: 10px;" width="300"/>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
